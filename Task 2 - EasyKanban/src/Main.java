@@ -6,7 +6,6 @@ public class Main
 	public static void main(String[] args) 
 	{
 		// welcome user(s)
-		
 		System.out.println("Welcome to EasyKanban\n");
 		
 		// Used to prompt the user(s)
