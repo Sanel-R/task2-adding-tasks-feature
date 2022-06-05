@@ -20,7 +20,7 @@ public class Task
 	private String taskID;
 	private String taskStatus;
 	
-	// create a container that will store all our Task instances.
+	// create a container that will store all our Task instance(s)
 	private ArrayList<Task> taskList = new ArrayList<>();
 	
 	// keep track of the task numbers.
