@@ -29,7 +29,7 @@ public class Task
 	// define our constructor.
 	public Task(String taskName,String taskDescription, String developerDetails, int taskDuration, String taskStatus)
 	{
-		// initialize all our local variables of the class.
+		// initialize all our local variables of the classes.
 		this.taskName = taskName;
 		this.taskNumber = 0;
 		this.taskDescription = taskDescription;
