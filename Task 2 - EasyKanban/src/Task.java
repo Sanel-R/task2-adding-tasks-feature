@@ -12,6 +12,7 @@ import java.util.Scanner;
 public class Task 
 {
 	// Define all our variables as private to handle that logic.
+	
 	private String taskName;
 	private int taskNumber;
 	private String taskDescription;
